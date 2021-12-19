@@ -1,0 +1,3885 @@
+[
+  {
+    "year": 2014,
+    "data": [
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 128,
+        "contest": 10.25,
+        "passingGrade": 185,
+        "avgGrade": 213.5,
+        "commerceAccepted": 26
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 75,
+        "contest": 23.48,
+        "passingGrade": 217,
+        "avgGrade": 232,
+        "commerceAccepted": 58
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии(прикладной бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 43.1,
+        "passingGrade": 216,
+        "avgGrade": 233.4,
+        "commerceAccepted": 22
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 50,
+        "contest": 30.78,
+        "passingGrade": 218,
+        "avgGrade": 242.6,
+        "commerceAccepted": 42
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика",
+        "budgetPlaces": 49,
+        "contest": 15.57,
+        "passingGrade": 185,
+        "avgGrade": 205.8,
+        "commerceAccepted": 17
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 20,
+        "contest": 14.65,
+        "passingGrade": 173,
+        "avgGrade": 193.1,
+        "commerceAccepted": null
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 25,
+        "contest": 14.12,
+        "passingGrade": 180,
+        "avgGrade": 209.5,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 32,
+        "contest": 15.81,
+        "passingGrade": 183,
+        "avgGrade": 217.3,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах",
+        "budgetPlaces": 40,
+        "contest": 12.52,
+        "passingGrade": 190,
+        "avgGrade": 210.3,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность",
+        "budgetPlaces": 60,
+        "contest": 15.78,
+        "passingGrade": 199,
+        "avgGrade": 226.8,
+        "commerceAccepted": 28
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 60,
+        "contest": 13.93,
+        "passingGrade": 191,
+        "avgGrade": 219.1,
+        "commerceAccepted": 17
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника",
+        "budgetPlaces": 30,
+        "contest": 15.03,
+        "passingGrade": 144,
+        "avgGrade": 184.6,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи",
+        "budgetPlaces": 30,
+        "contest": 17.03,
+        "passingGrade": 179,
+        "avgGrade": 207.2,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 33,
+        "contest": 8.96,
+        "passingGrade": 146,
+        "avgGrade": 180.7,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы",
+        "budgetPlaces": 48,
+        "contest": 8.53,
+        "passingGrade": 138,
+        "avgGrade": 178,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "38.03.01",
+        "title": "Экономика",
+        "budgetPlaces": 15,
+        "contest": 64.67,
+        "passingGrade": 229,
+        "avgGrade": 231.4,
+        "commerceAccepted": 100
+      },
+      {
+        "code": "38.03.02",
+        "title": "Менеджмент",
+        "budgetPlaces": 15,
+        "contest": 59.73,
+        "passingGrade": 220,
+        "avgGrade": 224.2,
+        "commerceAccepted": 42
+      },
+      {
+        "code": "38.03.04",
+        "title": "Государственное и муниципальное управление",
+        "budgetPlaces": 15,
+        "contest": 51.13,
+        "passingGrade": 224,
+        "avgGrade": 236,
+        "commerceAccepted": 62
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 25,
+        "contest": 30.84,
+        "passingGrade": 227,
+        "avgGrade": 235,
+        "commerceAccepted": 68
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника",
+        "budgetPlaces": 45,
+        "contest": 13.2,
+        "passingGrade": 150,
+        "avgGrade": 181.9,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 19,
+        "contest": 9.74,
+        "passingGrade": 155,
+        "avgGrade": 198.5,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 23,
+        "contest": 6.56,
+        "passingGrade": 143,
+        "avgGrade": 173.9,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения",
+        "budgetPlaces": 21,
+        "contest": 18.67,
+        "passingGrade": 125,
+        "avgGrade": 175.8,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика",
+        "budgetPlaces": 25,
+        "contest": 9.44,
+        "passingGrade": 165,
+        "avgGrade": 169.2,
+        "commerceAccepted": null
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 60,
+        "contest": 17.78,
+        "passingGrade": 175,
+        "avgGrade": 200.7,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 25,
+        "contest": 15.36,
+        "passingGrade": 122,
+        "avgGrade": 165,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 13,
+        "contest": 9.38,
+        "passingGrade": 193,
+        "avgGrade": 180.6,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 25,
+        "contest": 8.98,
+        "passingGrade": 122,
+        "avgGrade": 156.6,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 25,
+        "contest": 14.2,
+        "passingGrade": 137,
+        "avgGrade": 170.4,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение",
+        "budgetPlaces": 45,
+        "contest": 4.76,
+        "passingGrade": 146,
+        "avgGrade": 164.4,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "15.03.02",
+        "title": "Технологические машины и оборудование",
+        "budgetPlaces": 19,
+        "contest": 4.37,
+        "passingGrade": 149,
+        "avgGrade": 160.8,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "15.03.05",
+        "title": "Конструкторско-технологическое обеспечение машиностроительных производств",
+        "budgetPlaces": 10,
+        "contest": 8.8,
+        "passingGrade": 145,
+        "avgGrade": 172.2,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 25,
+        "contest": 10.96,
+        "passingGrade": 146,
+        "avgGrade": 164.7,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 25,
+        "contest": 4.36,
+        "passingGrade": 148,
+        "avgGrade": 174.8,
+        "commerceAccepted": null
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 22,
+        "contest": 11.73,
+        "passingGrade": 124,
+        "avgGrade": 166.8,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика",
+        "budgetPlaces": 19,
+        "contest": 10.11,
+        "passingGrade": 167,
+        "avgGrade": 193.8,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника",
+        "budgetPlaces": 30,
+        "contest": 6.2,
+        "passingGrade": 158,
+        "avgGrade": 178.2,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "23.05.01",
+        "title": "Наземные транспортно-технологические средства",
+        "budgetPlaces": 30,
+        "contest": 3,
+        "passingGrade": 144,
+        "avgGrade": 165.6,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "24.05.02",
+        "title": "Проектирование авиационных и ракетных двигателей",
+        "budgetPlaces": 20,
+        "contest": 7.3,
+        "passingGrade": 144,
+        "avgGrade": 171.6,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 28,
+        "contest": 33.57,
+        "passingGrade": 174,
+        "avgGrade": 199.5,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика",
+        "budgetPlaces": 21,
+        "contest": 31.14,
+        "passingGrade": 166,
+        "avgGrade": 190.8,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 30,
+        "contest": 18.37,
+        "passingGrade": 193,
+        "avgGrade": 233.4,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность",
+        "budgetPlaces": 25,
+        "contest": 33,
+        "passingGrade": 188,
+        "avgGrade": 200.1,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 13,
+        "contest": 9.38,
+        "passingGrade": 193,
+        "avgGrade": 180.6,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 25,
+        "contest": 8.98,
+        "passingGrade": 122,
+        "avgGrade": 156.6,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств",
+        "budgetPlaces": 19,
+        "contest": 9.47,
+        "passingGrade": 145,
+        "avgGrade": 171.3,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах",
+        "budgetPlaces": 25,
+        "contest": 7.12,
+        "passingGrade": 148,
+        "avgGrade": 174,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 19,
+        "contest": 60.21,
+        "passingGrade": 208,
+        "avgGrade": 220.2,
+        "commerceAccepted": 31
+      },
+      {
+        "code": "40.03.01",
+        "title": "Юриспруденция",
+        "budgetPlaces": 10,
+        "contest": 32.3,
+        "passingGrade": 209,
+        "avgGrade": 226.2,
+        "commerceAccepted": 29
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 25,
+        "contest": 8,
+        "passingGrade": 151,
+        "avgGrade": 191.4,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем",
+        "budgetPlaces": 25,
+        "contest": 9.44,
+        "passingGrade": 166,
+        "avgGrade": 184.8,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность",
+        "budgetPlaces": 50,
+        "contest": 25.96,
+        "passingGrade": 215,
+        "avgGrade": 228,
+        "commerceAccepted": 99
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности",
+        "budgetPlaces": 30,
+        "contest": 10.17,
+        "passingGrade": 218,
+        "avgGrade": 231,
+        "commerceAccepted": 36
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов",
+        "budgetPlaces": 25,
+        "contest": 2.04,
+        "passingGrade": 191,
+        "avgGrade": 215.1,
+        "commerceAccepted": 14
+      },
+      {
+        "code": "38.03.01",
+        "title": "Экономика",
+        "budgetPlaces": 8,
+        "contest": 45.87,
+        "passingGrade": 217,
+        "avgGrade": 228.3,
+        "commerceAccepted": 99
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом",
+        "budgetPlaces": 30,
+        "contest": 34.23,
+        "passingGrade": 210,
+        "avgGrade": 216,
+        "commerceAccepted": 41
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика",
+        "budgetPlaces": 15,
+        "contest": 5.9,
+        "passingGrade": 167,
+        "avgGrade": 207,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия",
+        "budgetPlaces": 52,
+        "contest": 26.7,
+        "passingGrade": 195,
+        "avgGrade": 221,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия(прикладной бакалавриат)",
+        "budgetPlaces": 15,
+        "contest": 79.8,
+        "passingGrade": 218,
+        "avgGrade": 233,
+        "commerceAccepted": null
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология",
+        "budgetPlaces": 300,
+        "contest": 6.9,
+        "passingGrade": 172,
+        "avgGrade": 203,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология(прикладной бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 89.1,
+        "passingGrade": 194,
+        "avgGrade": 237,
+        "commerceAccepted": null
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология",
+        "budgetPlaces": 65,
+        "contest": 20.1,
+        "passingGrade": 220,
+        "avgGrade": 234,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность",
+        "budgetPlaces": 25,
+        "contest": 22,
+        "passingGrade": 157,
+        "avgGrade": 174,
+        "commerceAccepted": null
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 25,
+        "contest": 25.5,
+        "passingGrade": 154,
+        "avgGrade": 166,
+        "commerceAccepted": null
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов(прикладной бакалавриат)",
+        "budgetPlaces": 10,
+        "contest": 57,
+        "passingGrade": 161,
+        "avgGrade": 175,
+        "commerceAccepted": null
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 18,
+        "contest": 9.1,
+        "passingGrade": 151,
+        "avgGrade": 168,
+        "commerceAccepted": null
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "data": [
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика",
+        "budgetPlaces": 25,
+        "contest": 9.48,
+        "passingGrade": 158,
+        "avgGrade": 181.4,
+        "commerceAccepted": null
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 35,
+        "contest": 8.51,
+        "passingGrade": 189,
+        "avgGrade": 206.9,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 27,
+        "contest": 11.74,
+        "passingGrade": 159,
+        "avgGrade": 176.5,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 14,
+        "contest": 6.5,
+        "passingGrade": 193,
+        "avgGrade": 204.8,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 14,
+        "contest": 12.13,
+        "passingGrade": 151,
+        "avgGrade": 174.3,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 13,
+        "contest": 12.77,
+        "passingGrade": 184,
+        "avgGrade": 199.9,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение",
+        "budgetPlaces": 50,
+        "contest": 7.06,
+        "passingGrade": 146,
+        "avgGrade": 165,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "15.03.02",
+        "title": "Технологические машины и оборудование",
+        "budgetPlaces": 20,
+        "contest": 7.45,
+        "passingGrade": 146,
+        "avgGrade": 161.7,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "15.03.05",
+        "title": "Конструкторско-технологическое обеспечение машиностроительных производств",
+        "budgetPlaces": 19,
+        "contest": 6.68,
+        "passingGrade": 144,
+        "avgGrade": 162.4,
+        "commerceAccepted": null
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 25,
+        "contest": 6.16,
+        "passingGrade": 150,
+        "avgGrade": 174.5,
+        "commerceAccepted": null
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 20,
+        "contest": 9.5,
+        "passingGrade": 150,
+        "avgGrade": 163,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика",
+        "budgetPlaces": 25,
+        "contest": 14.84,
+        "passingGrade": 191,
+        "avgGrade": 203.2,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника",
+        "budgetPlaces": 20,
+        "contest": 10.85,
+        "passingGrade": 175,
+        "avgGrade": 190.3,
+        "commerceAccepted": null
+      },
+      {
+        "code": "23.05.01",
+        "title": "Наземные транспортно-технологические средства",
+        "budgetPlaces": 30,
+        "contest": 4.93,
+        "passingGrade": 149,
+        "avgGrade": 168.6,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 206,
+        "contest": 8.46,
+        "passingGrade": 187,
+        "avgGrade": 207.3,
+        "commerceAccepted": 24
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 129,
+        "contest": 11.41,
+        "passingGrade": 205,
+        "avgGrade": 221.5,
+        "commerceAccepted": 55
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии(прикладной бакалавриат)",
+        "budgetPlaces": 15,
+        "contest": 37.07,
+        "passingGrade": 215,
+        "avgGrade": 228.9,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 95,
+        "contest": 13.93,
+        "passingGrade": 224,
+        "avgGrade": 235.2,
+        "commerceAccepted": 55
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств",
+        "budgetPlaces": 22,
+        "contest": 12.73,
+        "passingGrade": 167,
+        "avgGrade": 183,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика",
+        "budgetPlaces": 60,
+        "contest": 19.15,
+        "passingGrade": 217,
+        "avgGrade": 228.6,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 46,
+        "contest": 6.54,
+        "passingGrade": 177,
+        "avgGrade": 197.5,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 47,
+        "contest": 12.79,
+        "passingGrade": 181,
+        "avgGrade": 203.2,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 54,
+        "contest": 13.44,
+        "passingGrade": 207,
+        "avgGrade": 220.5,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах",
+        "budgetPlaces": 70,
+        "contest": 20.96,
+        "passingGrade": 173,
+        "avgGrade": 190.2,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность",
+        "budgetPlaces": 70,
+        "contest": 19.14,
+        "passingGrade": 225,
+        "avgGrade": 238.7,
+        "commerceAccepted": 41
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 71,
+        "contest": 13.7,
+        "passingGrade": 211,
+        "avgGrade": 225.4,
+        "commerceAccepted": 39
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 11,
+        "contest": 8.45,
+        "passingGrade": 187,
+        "avgGrade": 202,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 39,
+        "contest": 11.36,
+        "passingGrade": 206,
+        "avgGrade": 217.7,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика",
+        "budgetPlaces": 28,
+        "contest": 28.89,
+        "passingGrade": 202,
+        "avgGrade": 219.3,
+        "commerceAccepted": 7
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 24,
+        "contest": 13.96,
+        "passingGrade": 224,
+        "avgGrade": 231.9,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность",
+        "budgetPlaces": 25,
+        "contest": 45.68,
+        "passingGrade": 223,
+        "avgGrade": 230.1,
+        "commerceAccepted": 32
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 7,
+        "contest": 6.57,
+        "passingGrade": 182,
+        "avgGrade": 191.6,
+        "commerceAccepted": null
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 8,
+        "contest": 12.13,
+        "passingGrade": 150,
+        "avgGrade": 157.8,
+        "commerceAccepted": null
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 14,
+        "contest": 27.57,
+        "passingGrade": 230,
+        "avgGrade": 230.2,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 24,
+        "contest": 13.67,
+        "passingGrade": 211,
+        "avgGrade": 226.4,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем",
+        "budgetPlaces": 25,
+        "contest": 18.48,
+        "passingGrade": 205,
+        "avgGrade": 218.9,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности",
+        "budgetPlaces": 25,
+        "contest": 9.72,
+        "passingGrade": 185,
+        "avgGrade": 205.2,
+        "commerceAccepted": null
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере",
+        "budgetPlaces": 11,
+        "contest": 22.55,
+        "passingGrade": 224,
+        "avgGrade": 233.4,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность",
+        "budgetPlaces": 50,
+        "contest": 26.22,
+        "passingGrade": 234,
+        "avgGrade": 235.9,
+        "commerceAccepted": 113
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности",
+        "budgetPlaces": 27,
+        "contest": 13.26,
+        "passingGrade": 234,
+        "avgGrade": 239.5,
+        "commerceAccepted": 38
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника",
+        "budgetPlaces": 35,
+        "contest": 24.44,
+        "passingGrade": 191,
+        "avgGrade": 205.3,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи",
+        "budgetPlaces": 35,
+        "contest": 21.24,
+        "passingGrade": 199,
+        "avgGrade": 211.4,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 46,
+        "contest": 11.74,
+        "passingGrade": 159,
+        "avgGrade": 183.9,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы",
+        "budgetPlaces": 60,
+        "contest": 13,
+        "passingGrade": 167,
+        "avgGrade": 195.9,
+        "commerceAccepted": 7
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов",
+        "budgetPlaces": 25,
+        "contest": 2.72,
+        "passingGrade": 275,
+        "avgGrade": 292.6,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "38.03.01",
+        "title": "Экономика",
+        "budgetPlaces": 3,
+        "contest": 82,
+        "passingGrade": 244,
+        "avgGrade": 237,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "38.03.02",
+        "title": "Менеджмент",
+        "budgetPlaces": 4,
+        "contest": 75.25,
+        "passingGrade": 232,
+        "avgGrade": 230.5,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом",
+        "budgetPlaces": 30,
+        "contest": 55.25,
+        "passingGrade": 226,
+        "avgGrade": 222.8,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "38.03.04",
+        "title": "Государственное и муниципальное управление",
+        "budgetPlaces": 4,
+        "contest": 25.87,
+        "passingGrade": 232,
+        "avgGrade": 224.7,
+        "commerceAccepted": 18
+      },
+      {
+        "code": "38.03.01",
+        "title": "Экономика",
+        "budgetPlaces": 17,
+        "contest": 81.94,
+        "passingGrade": 239,
+        "avgGrade": 239.3,
+        "commerceAccepted": 84
+      },
+      {
+        "code": "38.03.02",
+        "title": "Менеджмент",
+        "budgetPlaces": 16,
+        "contest": 75.19,
+        "passingGrade": 231,
+        "avgGrade": 230,
+        "commerceAccepted": 48
+      },
+      {
+        "code": "38.03.04",
+        "title": "Государственное и муниципальное управление",
+        "budgetPlaces": 21,
+        "contest": 55.29,
+        "passingGrade": 230,
+        "avgGrade": 234.4,
+        "commerceAccepted": 63
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 42,
+        "contest": 27.6,
+        "passingGrade": 229,
+        "avgGrade": 232.4,
+        "commerceAccepted": 101
+      },
+      {
+        "code": "46.03.02",
+        "title": "Документоведение и архивоведение",
+        "budgetPlaces": 15,
+        "contest": 8.33,
+        "passingGrade": 203,
+        "avgGrade": 215.1,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника",
+        "budgetPlaces": 53,
+        "contest": 12.16,
+        "passingGrade": 172,
+        "avgGrade": 194.1,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 46,
+        "contest": 16.83,
+        "passingGrade": 149,
+        "avgGrade": 174.1,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 28,
+        "contest": 9.54,
+        "passingGrade": 150,
+        "avgGrade": 176.2,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения",
+        "budgetPlaces": 30,
+        "contest": 18.47,
+        "passingGrade": 151,
+        "avgGrade": 181.1,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика",
+        "budgetPlaces": 15,
+        "contest": 5.7,
+        "passingGrade": 152,
+        "avgGrade": 178,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия",
+        "budgetPlaces": 50,
+        "contest": 23,
+        "passingGrade": 201,
+        "avgGrade": 218,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия(прикладной бакалавриат)",
+        "budgetPlaces": 15,
+        "contest": 73,
+        "passingGrade": 217,
+        "avgGrade": 234,
+        "commerceAccepted": null
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология",
+        "budgetPlaces": 300,
+        "contest": 6,
+        "passingGrade": 182,
+        "avgGrade": 205,
+        "commerceAccepted": 37
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология(прикладной бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 88,
+        "passingGrade": 224,
+        "avgGrade": 244,
+        "commerceAccepted": null
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология",
+        "budgetPlaces": 65,
+        "contest": 16,
+        "passingGrade": 224,
+        "avgGrade": 244,
+        "commerceAccepted": 17
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность",
+        "budgetPlaces": 25,
+        "contest": 19,
+        "passingGrade": 171,
+        "avgGrade": 185,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 25,
+        "contest": 30,
+        "passingGrade": 169,
+        "avgGrade": 179,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов(прикладной бакалавриат)",
+        "budgetPlaces": 10,
+        "contest": 72,
+        "passingGrade": 173,
+        "avgGrade": 181,
+        "commerceAccepted": null
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 20,
+        "contest": 19.5,
+        "passingGrade": 174,
+        "avgGrade": 194,
+        "commerceAccepted": 1
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "data": [
+      {
+        "code": "27.03.05",
+        "title": "Инноватика(академический бакалавриат)",
+        "budgetPlaces": 28,
+        "contest": 18.429,
+        "passingGrade": 216,
+        "avgGrade": 233.6,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "38.03.01",
+        "title": "Экономика(академический бакалавриат)",
+        "budgetPlaces": 5,
+        "contest": 167.6,
+        "passingGrade": 243,
+        "avgGrade": 247.75,
+        "commerceAccepted": 127
+      },
+      {
+        "code": "38.03.02",
+        "title": "Менеджмент(прикладной бакалавриат)",
+        "budgetPlaces": 5,
+        "contest": 134.2,
+        "passingGrade": 229,
+        "avgGrade": 235.35,
+        "commerceAccepted": 53
+      },
+      {
+        "code": "38.03.04",
+        "title": "Государственное и муниципальное управление(академический бакалавриат)",
+        "budgetPlaces": 5,
+        "contest": 136.6,
+        "passingGrade": 238,
+        "avgGrade": 242,
+        "commerceAccepted": 68
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика(академический бакалавриат)",
+        "budgetPlaces": 5,
+        "contest": 111.2,
+        "passingGrade": 242,
+        "avgGrade": 253,
+        "commerceAccepted": 84
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника(академический бакалавриат)",
+        "budgetPlaces": 160,
+        "contest": 13.238,
+        "passingGrade": 202,
+        "avgGrade": 219.407,
+        "commerceAccepted": 56
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии(прикладной бакалавриат)",
+        "budgetPlaces": 140,
+        "contest": 15.457,
+        "passingGrade": 227,
+        "avgGrade": 238.784,
+        "commerceAccepted": 162
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия(академический бакалавриат)",
+        "budgetPlaces": 100,
+        "contest": 16.97,
+        "passingGrade": 219,
+        "avgGrade": 250.744,
+        "commerceAccepted": 120
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств(академический бакалавриат)",
+        "budgetPlaces": 30,
+        "contest": 23.4,
+        "passingGrade": 209,
+        "avgGrade": 225.552,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 24.2,
+        "passingGrade": 232,
+        "avgGrade": 243.594,
+        "commerceAccepted": 18
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика(прикладной бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 59.25,
+        "passingGrade": 226,
+        "avgGrade": 238.556,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность(специалитет)",
+        "budgetPlaces": 70,
+        "contest": 16.557,
+        "passingGrade": 222,
+        "avgGrade": 242.833,
+        "commerceAccepted": 63
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем(специалитет)",
+        "budgetPlaces": 60,
+        "contest": 14.733,
+        "passingGrade": 219,
+        "avgGrade": 235.268,
+        "commerceAccepted": 66
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение(академический бакалавриат)",
+        "budgetPlaces": 32,
+        "contest": 18.844,
+        "passingGrade": 201,
+        "avgGrade": 219.696,
+        "commerceAccepted": 12
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника(академический бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 19.88,
+        "passingGrade": 202,
+        "avgGrade": 227.705,
+        "commerceAccepted": 34
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах(академический бакалавриат)",
+        "budgetPlaces": 30,
+        "contest": 29.3,
+        "passingGrade": 190,
+        "avgGrade": 217.731,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах(прикладной бакалавриат)",
+        "budgetPlaces": 22,
+        "contest": 34.273,
+        "passingGrade": 182,
+        "avgGrade": 209.591,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника(прикладной бакалавриат)",
+        "budgetPlaces": 30,
+        "contest": 53,
+        "passingGrade": 192,
+        "avgGrade": 204.69,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии(академический бакалавриат)",
+        "budgetPlaces": 60,
+        "contest": 28.217,
+        "passingGrade": 217,
+        "avgGrade": 226.536,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 20.2,
+        "passingGrade": 208,
+        "avgGrade": 225.324,
+        "commerceAccepted": 20
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 23.175,
+        "passingGrade": 212,
+        "avgGrade": 232.861,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность(академический бакалавриат)",
+        "budgetPlaces": 24,
+        "contest": 45.375,
+        "passingGrade": 222,
+        "avgGrade": 239.5,
+        "commerceAccepted": 62
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем(специалитет)",
+        "budgetPlaces": 35,
+        "contest": 14.6,
+        "passingGrade": 206,
+        "avgGrade": 223.038,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем(специалитет)",
+        "budgetPlaces": 25,
+        "contest": 16.56,
+        "passingGrade": 213,
+        "avgGrade": 232.25,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности(специалитет)",
+        "budgetPlaces": 25,
+        "contest": 24.72,
+        "passingGrade": 207,
+        "avgGrade": 229.68,
+        "commerceAccepted": 19
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере(специалитет)",
+        "budgetPlaces": 20,
+        "contest": 15.9,
+        "passingGrade": 210,
+        "avgGrade": 235.722,
+        "commerceAccepted": 24
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение(академический бакалавриат)",
+        "budgetPlaces": 48,
+        "contest": 10.042,
+        "passingGrade": 183,
+        "avgGrade": 202,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика(прикладной бакалавриат)",
+        "budgetPlaces": 5,
+        "contest": 99.6,
+        "passingGrade": 238,
+        "avgGrade": 238,
+        "commerceAccepted": 19
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность(специалитет)",
+        "budgetPlaces": 20,
+        "contest": 41.2,
+        "passingGrade": 244,
+        "avgGrade": 256.077,
+        "commerceAccepted": 134
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности(специалитет)",
+        "budgetPlaces": 18,
+        "contest": 24,
+        "passingGrade": 242,
+        "avgGrade": 253.167,
+        "commerceAccepted": 81
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 18.275,
+        "passingGrade": 173,
+        "avgGrade": 206.478,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 16.875,
+        "passingGrade": 170,
+        "avgGrade": 213.057,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств(прикладной бакалавриат)",
+        "budgetPlaces": 60,
+        "contest": 12.867,
+        "passingGrade": 167,
+        "avgGrade": 195.872,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы(специалитет)",
+        "budgetPlaces": 60,
+        "contest": 14.95,
+        "passingGrade": 192,
+        "avgGrade": 211.286,
+        "commerceAccepted": 32
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика(академический бакалавриат)",
+        "budgetPlaces": 15,
+        "contest": 23.867,
+        "passingGrade": 196,
+        "avgGrade": 216.8,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия(академический бакалавриат)",
+        "budgetPlaces": 52,
+        "contest": 23.942,
+        "passingGrade": 181,
+        "avgGrade": 204.942,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия(прикладной бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 43.76,
+        "passingGrade": 171,
+        "avgGrade": 189.583,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика(академический бакалавриат)",
+        "budgetPlaces": 12,
+        "contest": 32.333,
+        "passingGrade": 193,
+        "avgGrade": 203.083,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология(академический бакалавриат)",
+        "budgetPlaces": 279,
+        "contest": 6.885,
+        "passingGrade": 181,
+        "avgGrade": 218.859,
+        "commerceAccepted": 34
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология(прикладной бакалавриат)",
+        "budgetPlaces": 100,
+        "contest": 16.65,
+        "passingGrade": 177,
+        "avgGrade": 220.303,
+        "commerceAccepted": 18
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология(академический бакалавриат)",
+        "budgetPlaces": 57,
+        "contest": 19.404,
+        "passingGrade": 197,
+        "avgGrade": 237.964,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность(академический бакалавриат)",
+        "budgetPlaces": 33,
+        "contest": 16.242,
+        "passingGrade": 174,
+        "avgGrade": 192.576,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов(академический бакалавриат)",
+        "budgetPlaces": 34,
+        "contest": 19.235,
+        "passingGrade": 180,
+        "avgGrade": 190.219,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология(академический бакалавриат)",
+        "budgetPlaces": 17,
+        "contest": 27.235,
+        "passingGrade": 174,
+        "avgGrade": 199.647,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом(прикладной бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 20.88,
+        "passingGrade": 217,
+        "avgGrade": 224.25,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика(академический бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 24.5,
+        "passingGrade": 189,
+        "avgGrade": 222.556,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника(академический бакалавриат)",
+        "budgetPlaces": 45,
+        "contest": 27.178,
+        "passingGrade": 191,
+        "avgGrade": 202.4,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника(академический бакалавриат)",
+        "budgetPlaces": 65,
+        "contest": 17.954,
+        "passingGrade": 180,
+        "avgGrade": 203.51,
+        "commerceAccepted": 19
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника(академический бакалавриат, конкурс 1)",
+        "budgetPlaces": 42,
+        "contest": 16.048,
+        "passingGrade": 168,
+        "avgGrade": 185.325,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника(академический бакалавриат, конкурс 2)",
+        "budgetPlaces": 35,
+        "contest": 25,
+        "passingGrade": 179,
+        "avgGrade": 202.071,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии(академический бакалавриат)",
+        "budgetPlaces": 30,
+        "contest": 19.567,
+        "passingGrade": 167,
+        "avgGrade": 197.067,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии(прикладной бакалавриат)",
+        "budgetPlaces": 30,
+        "contest": 21.533,
+        "passingGrade": 185,
+        "avgGrade": 211.25,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения(специалитет)",
+        "budgetPlaces": 32,
+        "contest": 23.813,
+        "passingGrade": 177,
+        "avgGrade": 201,
+        "commerceAccepted": 7
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 11.975,
+        "passingGrade": 168,
+        "avgGrade": 184.405,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "15.03.02",
+        "title": "Технологические машины и оборудование(академический бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 13.95,
+        "passingGrade": 170,
+        "avgGrade": 184.737,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "15.03.05",
+        "title": "Конструкторско-технологическое обеспечение машиностроительных производств(академический бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 13.15,
+        "passingGrade": 172,
+        "avgGrade": 192.8,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов(академический бакалавриат)",
+        "budgetPlaces": 23,
+        "contest": 7.348,
+        "passingGrade": 163,
+        "avgGrade": 171.263,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "23.05.01",
+        "title": "Наземные транспортно-технологические средства(специалитет)",
+        "budgetPlaces": 25,
+        "contest": 7.4,
+        "passingGrade": 160,
+        "avgGrade": 177.22,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология(прикладной бакалавриат, конкурс 1)",
+        "budgetPlaces": 30,
+        "contest": 15.967,
+        "passingGrade": 158,
+        "avgGrade": 177.667,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология(прикладной бакалавриат, конкурс 2)",
+        "budgetPlaces": 25,
+        "contest": 14.96,
+        "passingGrade": 155,
+        "avgGrade": 172.565,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника(прикладной бакалавриат)",
+        "budgetPlaces": 22,
+        "contest": 11.864,
+        "passingGrade": 185,
+        "avgGrade": 204.5,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов(академический бакалавриат)",
+        "budgetPlaces": 26,
+        "contest": 2.115,
+        "passingGrade": 165,
+        "avgGrade": 204.64,
+        "commerceAccepted": 1
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "data": [
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика(академический бакалавриат)",
+        "budgetPlaces": 2,
+        "contest": 1,
+        "passingGrade": null,
+        "avgGrade": null,
+        "commerceAccepted": 136
+      },
+      {
+        "code": "46.03.02",
+        "title": "Документоведение и архивоведение(академический бакалавриат)",
+        "budgetPlaces": 15,
+        "contest": 15.867,
+        "passingGrade": 211,
+        "avgGrade": 221.231,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника(прикладной бакалавриат)",
+        "budgetPlaces": 255,
+        "contest": 8,
+        "passingGrade": 205,
+        "avgGrade": 220.348,
+        "commerceAccepted": 117
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 38.1,
+        "passingGrade": 239,
+        "avgGrade": 240.382,
+        "commerceAccepted": 86
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия(академический бакалавриат)",
+        "budgetPlaces": 150,
+        "contest": 15.5,
+        "passingGrade": 244,
+        "avgGrade": 250.313,
+        "commerceAccepted": 355
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств(прикладной бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 19.95,
+        "passingGrade": 216,
+        "avgGrade": 227.25,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 28.1,
+        "passingGrade": 237,
+        "avgGrade": 249.882,
+        "commerceAccepted": 40
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика(прикладной бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 43.52,
+        "passingGrade": 241,
+        "avgGrade": 242.042,
+        "commerceAccepted": 38
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность(специалитет)",
+        "budgetPlaces": 70,
+        "contest": 17.1,
+        "passingGrade": 220,
+        "avgGrade": 239.087,
+        "commerceAccepted": 119
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем(специалитет)",
+        "budgetPlaces": 70,
+        "contest": 12.7,
+        "passingGrade": 223,
+        "avgGrade": 240.111,
+        "commerceAccepted": 127
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии(академический бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 35.12,
+        "passingGrade": 201,
+        "avgGrade": 217,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника(академический бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 22.54,
+        "passingGrade": 217,
+        "avgGrade": 234.951,
+        "commerceAccepted": 75
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах(академический бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 35.68,
+        "passingGrade": 202,
+        "avgGrade": 206.941,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах(прикладной бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 46.85,
+        "passingGrade": 194,
+        "avgGrade": 207.316,
+        "commerceAccepted": 35
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика(академический бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 20.76,
+        "passingGrade": 219,
+        "avgGrade": 228.476,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии(академический бакалавриат)",
+        "budgetPlaces": 140,
+        "contest": 14.079,
+        "passingGrade": 227,
+        "avgGrade": 235.186,
+        "commerceAccepted": 98
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии(прикладной бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 39.36,
+        "passingGrade": 228,
+        "avgGrade": 233.583,
+        "commerceAccepted": 98
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность(академический бакалавриат)",
+        "budgetPlaces": 36,
+        "contest": 37.694,
+        "passingGrade": 238,
+        "avgGrade": 242.633,
+        "commerceAccepted": 156
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем(специалитет)",
+        "budgetPlaces": 60,
+        "contest": 11.55,
+        "passingGrade": 224,
+        "avgGrade": 232.4,
+        "commerceAccepted": 57
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности(специалитет)",
+        "budgetPlaces": 30,
+        "contest": 18.533,
+        "passingGrade": 224,
+        "avgGrade": 227.269,
+        "commerceAccepted": 26
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере(специалитет)",
+        "budgetPlaces": 30,
+        "contest": 17.467,
+        "passingGrade": 228,
+        "avgGrade": 237.964,
+        "commerceAccepted": 51
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение(академический бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 11.54,
+        "passingGrade": 200,
+        "avgGrade": 209.439,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность(специалитет)",
+        "budgetPlaces": 15,
+        "contest": 51.933,
+        "passingGrade": 250,
+        "avgGrade": 256.556,
+        "commerceAccepted": 280
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности(специалитет)",
+        "budgetPlaces": 18,
+        "contest": 23.778,
+        "passingGrade": 241,
+        "avgGrade": 247.833,
+        "commerceAccepted": 174
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника(академический бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 17.34,
+        "passingGrade": 187,
+        "avgGrade": 200.192,
+        "commerceAccepted": 22
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи(академический бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 22.3,
+        "passingGrade": 197,
+        "avgGrade": 209.196,
+        "commerceAccepted": 37
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств(прикладной бакалавриат)",
+        "budgetPlaces": 50,
+        "contest": 21.26,
+        "passingGrade": 195,
+        "avgGrade": 204.576,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы(специалитет)",
+        "budgetPlaces": 52,
+        "contest": 13.038,
+        "passingGrade": 187,
+        "avgGrade": 216,
+        "commerceAccepted": 44
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия(академический бакалавриат)",
+        "budgetPlaces": 45,
+        "contest": 28.689,
+        "passingGrade": 189,
+        "avgGrade": 220.773,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия(прикладной бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 47.32,
+        "passingGrade": 185,
+        "avgGrade": 204.36,
+        "commerceAccepted": 7
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология(академический бакалавриат)",
+        "budgetPlaces": 280,
+        "contest": 6.879,
+        "passingGrade": 187,
+        "avgGrade": 213.758,
+        "commerceAccepted": 41
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология(прикладной бакалавриат)",
+        "budgetPlaces": 100,
+        "contest": 17.86,
+        "passingGrade": 177,
+        "avgGrade": 211.309,
+        "commerceAccepted": 30
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология(академический бакалавриат)",
+        "budgetPlaces": 60,
+        "contest": 23.817,
+        "passingGrade": 225,
+        "avgGrade": 242,
+        "commerceAccepted": 41
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность(академический бакалавриат)",
+        "budgetPlaces": 30,
+        "contest": 14.5,
+        "passingGrade": 181,
+        "avgGrade": 197.167,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 13.35,
+        "passingGrade": 179,
+        "avgGrade": 192.525,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "27.03.02",
+        "title": "Управление качеством(прикладной бакалавриат)",
+        "budgetPlaces": 15,
+        "contest": 13.933,
+        "passingGrade": 184,
+        "avgGrade": 202.533,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика(академический бакалавриат)",
+        "budgetPlaces": 36,
+        "contest": 10.611,
+        "passingGrade": 206,
+        "avgGrade": 223.677,
+        "commerceAccepted": 31
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом(прикладной бакалавриат)",
+        "budgetPlaces": 23,
+        "contest": 29.478,
+        "passingGrade": 228,
+        "avgGrade": 224,
+        "commerceAccepted": 39
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника(академический бакалавриат)",
+        "budgetPlaces": 75,
+        "contest": 17.467,
+        "passingGrade": 197,
+        "avgGrade": 210.75,
+        "commerceAccepted": 25
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника(академический бакалавриат)",
+        "budgetPlaces": 75,
+        "contest": 9.653,
+        "passingGrade": 186,
+        "avgGrade": 197.444,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения(специалитет)",
+        "budgetPlaces": 32,
+        "contest": 19.25,
+        "passingGrade": 187,
+        "avgGrade": 204.172,
+        "commerceAccepted": 14
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 14.75,
+        "passingGrade": 186,
+        "avgGrade": 199.194,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "15.03.02",
+        "title": "Технологические машины и оборудование(академический бакалавриат)",
+        "budgetPlaces": 40,
+        "contest": 11.75,
+        "passingGrade": 186,
+        "avgGrade": 195.65,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов(академический бакалавриат)",
+        "budgetPlaces": 20,
+        "contest": 16.25,
+        "passingGrade": 181,
+        "avgGrade": 188.95,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология(академический бакалавриат)",
+        "budgetPlaces": 18,
+        "contest": 13.167,
+        "passingGrade": 179,
+        "avgGrade": 202.222,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология(прикладной бакалавриат)",
+        "budgetPlaces": 36,
+        "contest": 18.694,
+        "passingGrade": 175,
+        "avgGrade": 191.969,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника(прикладной бакалавриат)",
+        "budgetPlaces": 25,
+        "contest": 17.64,
+        "passingGrade": 206,
+        "avgGrade": 213.278,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов(академический бакалавриат)",
+        "budgetPlaces": 28,
+        "contest": 3.643,
+        "passingGrade": 206,
+        "avgGrade": 228.37,
+        "commerceAccepted": 15
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "data": [
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 4,
+        "contest": 98.25,
+        "passingGrade": 248,
+        "avgGrade": 257,
+        "commerceAccepted": 123
+      },
+      {
+        "code": "46.03.02",
+        "title": "Документоведение и архивоведение",
+        "budgetPlaces": 17,
+        "contest": 19.647,
+        "passingGrade": 227,
+        "avgGrade": 238.875,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика",
+        "budgetPlaces": 27,
+        "contest": 31.481,
+        "passingGrade": 233,
+        "avgGrade": 244.615,
+        "commerceAccepted": 12
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 240,
+        "contest": 9.746,
+        "passingGrade": 220,
+        "avgGrade": 234.222,
+        "commerceAccepted": 120
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика",
+        "budgetPlaces": 109,
+        "contest": 19.569,
+        "passingGrade": 240,
+        "avgGrade": 248.394,
+        "commerceAccepted": 111
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 140,
+        "contest": 15.829,
+        "passingGrade": 242,
+        "avgGrade": 258.466,
+        "commerceAccepted": 359
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств",
+        "budgetPlaces": 25,
+        "contest": 24.8,
+        "passingGrade": 228,
+        "avgGrade": 236.227,
+        "commerceAccepted": 18
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика",
+        "budgetPlaces": 65,
+        "contest": 24.523,
+        "passingGrade": 243,
+        "avgGrade": 251.524,
+        "commerceAccepted": 65
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность",
+        "budgetPlaces": 70,
+        "contest": 17.543,
+        "passingGrade": 226,
+        "avgGrade": 245.667,
+        "commerceAccepted": 70
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 70,
+        "contest": 10.157,
+        "passingGrade": 229,
+        "avgGrade": 242.81,
+        "commerceAccepted": 68
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 35,
+        "contest": 21.086,
+        "passingGrade": 218,
+        "avgGrade": 234.5,
+        "commerceAccepted": 27
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 50,
+        "contest": 21.36,
+        "passingGrade": 220,
+        "avgGrade": 241.479,
+        "commerceAccepted": 51
+      },
+      {
+        "code": "27.03.03",
+        "title": "Системный анализ и управление",
+        "budgetPlaces": 20,
+        "contest": 22.95,
+        "passingGrade": 213,
+        "avgGrade": 221.111,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах",
+        "budgetPlaces": 30,
+        "contest": 28.733,
+        "passingGrade": 214,
+        "avgGrade": 222.333,
+        "commerceAccepted": 22
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 210,
+        "contest": 14.052,
+        "passingGrade": 237,
+        "avgGrade": 244.782,
+        "commerceAccepted": 291
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность",
+        "budgetPlaces": 40,
+        "contest": 38.2,
+        "passingGrade": 246,
+        "avgGrade": 255.269,
+        "commerceAccepted": 184
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем",
+        "budgetPlaces": 70,
+        "contest": 11.557,
+        "passingGrade": 233,
+        "avgGrade": 242.605,
+        "commerceAccepted": 59
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности",
+        "budgetPlaces": 35,
+        "contest": 17.229,
+        "passingGrade": 232,
+        "avgGrade": 238.125,
+        "commerceAccepted": 44
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере",
+        "budgetPlaces": 35,
+        "contest": 15.371,
+        "passingGrade": 227,
+        "avgGrade": 242.69,
+        "commerceAccepted": 59
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 40,
+        "contest": 15.125,
+        "passingGrade": 218,
+        "avgGrade": 226.88,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность",
+        "budgetPlaces": 10,
+        "contest": 44.3,
+        "passingGrade": 238,
+        "avgGrade": 239,
+        "commerceAccepted": 136
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности",
+        "budgetPlaces": 10,
+        "contest": 50.5,
+        "passingGrade": 258,
+        "avgGrade": 262.667,
+        "commerceAccepted": 53
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника",
+        "budgetPlaces": 55,
+        "contest": 14.8,
+        "passingGrade": 199,
+        "avgGrade": 212.25,
+        "commerceAccepted": 12
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи",
+        "budgetPlaces": 55,
+        "contest": 14.564,
+        "passingGrade": 209,
+        "avgGrade": 220.973,
+        "commerceAccepted": 18
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 55,
+        "contest": 10.836,
+        "passingGrade": 196,
+        "avgGrade": 214.128,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы",
+        "budgetPlaces": 60,
+        "contest": 10.483,
+        "passingGrade": 198,
+        "avgGrade": 213.5,
+        "commerceAccepted": 26
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия",
+        "budgetPlaces": 77,
+        "contest": 25.584,
+        "passingGrade": 224,
+        "avgGrade": 242.164,
+        "commerceAccepted": 29
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология",
+        "budgetPlaces": 380,
+        "contest": 5.184,
+        "passingGrade": 211,
+        "avgGrade": 228.855,
+        "commerceAccepted": 119
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология",
+        "budgetPlaces": 64,
+        "contest": 25.969,
+        "passingGrade": 230,
+        "avgGrade": 256.862,
+        "commerceAccepted": 70
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность",
+        "budgetPlaces": 32,
+        "contest": 23.281,
+        "passingGrade": 207,
+        "avgGrade": 215.833,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "27.03.02",
+        "title": "Управление качеством",
+        "budgetPlaces": 17,
+        "contest": 34.824,
+        "passingGrade": 216,
+        "avgGrade": 225.765,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика",
+        "budgetPlaces": 35,
+        "contest": 21.086,
+        "passingGrade": 226,
+        "avgGrade": 237.25,
+        "commerceAccepted": 30
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом",
+        "budgetPlaces": 24,
+        "contest": 21.625,
+        "passingGrade": 245,
+        "avgGrade": 247.333,
+        "commerceAccepted": 66
+      },
+      {
+        "code": "40.03.01",
+        "title": "Юриспруденция",
+        "budgetPlaces": 14,
+        "contest": 49.286,
+        "passingGrade": 245,
+        "avgGrade": 254.583,
+        "commerceAccepted": 225
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника",
+        "budgetPlaces": 75,
+        "contest": 14.813,
+        "passingGrade": 203,
+        "avgGrade": 219.662,
+        "commerceAccepted": 20
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 40,
+        "contest": 12.025,
+        "passingGrade": 191,
+        "avgGrade": 205.516,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "12.03.05",
+        "title": "Лазерная техника и лазерные технологии",
+        "budgetPlaces": 45,
+        "contest": 12.756,
+        "passingGrade": 188,
+        "avgGrade": 207.16,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения",
+        "budgetPlaces": 35,
+        "contest": 15.114,
+        "passingGrade": 198,
+        "avgGrade": 216,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение",
+        "budgetPlaces": 25,
+        "contest": 24.64,
+        "passingGrade": 209,
+        "avgGrade": 221.652,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов (математика, информатика и ИКТ, русский язык)",
+        "budgetPlaces": 20,
+        "contest": 19.45,
+        "passingGrade": 202,
+        "avgGrade": 213.176,
+        "commerceAccepted": 1
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов (математика, химия, русский язык)",
+        "budgetPlaces": 39,
+        "contest": 20.026,
+        "passingGrade": 204,
+        "avgGrade": 214.053,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология (математика, физика, русский язык)",
+        "budgetPlaces": 34,
+        "contest": 16.265,
+        "passingGrade": 191,
+        "avgGrade": 205.517,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология (математика, химия, русский язык)",
+        "budgetPlaces": 16,
+        "contest": 26.625,
+        "passingGrade": 202,
+        "avgGrade": 215.875,
+        "commerceAccepted": 3
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника",
+        "budgetPlaces": 25,
+        "contest": 21.12,
+        "passingGrade": 210,
+        "avgGrade": 223.273,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов",
+        "budgetPlaces": 25,
+        "contest": 3.48,
+        "passingGrade": 197,
+        "avgGrade": 225.88,
+        "commerceAccepted": 15
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "data": [
+      {
+        "code": "01.03.05",
+        "title": "Статистика",
+        "budgetPlaces": 15,
+        "contest": 23.6,
+        "passingGrade": 242,
+        "avgGrade": 254.5,
+        "commerceAccepted": 59
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 5,
+        "contest": 97.8,
+        "passingGrade": 253,
+        "avgGrade": 257.5,
+        "commerceAccepted": 128
+      },
+      {
+        "code": "46.03.02",
+        "title": "Документоведение и архивоведение",
+        "budgetPlaces": 19,
+        "contest": 13.211,
+        "passingGrade": 218,
+        "avgGrade": 234.824,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика",
+        "budgetPlaces": 25,
+        "contest": 31.92,
+        "passingGrade": 256,
+        "avgGrade": 262.909,
+        "commerceAccepted": 24
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 274,
+        "contest": 8.54,
+        "passingGrade": 230,
+        "avgGrade": 244.279,
+        "commerceAccepted": 95
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика",
+        "budgetPlaces": 115,
+        "contest": 23.226,
+        "passingGrade": 259,
+        "avgGrade": 264.206,
+        "commerceAccepted": 174
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 175,
+        "contest": 18.583,
+        "passingGrade": 260,
+        "avgGrade": 272.697,
+        "commerceAccepted": 573
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств",
+        "budgetPlaces": 35,
+        "contest": 16.457,
+        "passingGrade": 239,
+        "avgGrade": 247.364,
+        "commerceAccepted": 26
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика",
+        "budgetPlaces": 50,
+        "contest": 34.82,
+        "passingGrade": 242,
+        "avgGrade": 272.442,
+        "commerceAccepted": 97
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность",
+        "budgetPlaces": 70,
+        "contest": 17.671,
+        "passingGrade": 236,
+        "avgGrade": 251.143,
+        "commerceAccepted": 78
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 70,
+        "contest": 12.429,
+        "passingGrade": 244,
+        "avgGrade": 252.195,
+        "commerceAccepted": 58
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 50,
+        "contest": 15.7,
+        "passingGrade": 220,
+        "avgGrade": 237.479,
+        "commerceAccepted": 36
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 46,
+        "contest": 24.891,
+        "passingGrade": 228,
+        "avgGrade": 248.488,
+        "commerceAccepted": 79
+      },
+      {
+        "code": "27.03.03",
+        "title": "Системный анализ и управление",
+        "budgetPlaces": 25,
+        "contest": 38.92,
+        "passingGrade": 243,
+        "avgGrade": 252.6,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах",
+        "budgetPlaces": 25,
+        "contest": 31.64,
+        "passingGrade": 226,
+        "avgGrade": 240.864,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 205,
+        "contest": 14.976,
+        "passingGrade": 250,
+        "avgGrade": 258.54,
+        "commerceAccepted": 232
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность",
+        "budgetPlaces": 40,
+        "contest": 41.625,
+        "passingGrade": 257,
+        "avgGrade": 265.143,
+        "commerceAccepted": 224
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем",
+        "budgetPlaces": 70,
+        "contest": 13.571,
+        "passingGrade": 246,
+        "avgGrade": 255.574,
+        "commerceAccepted": 86
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности",
+        "budgetPlaces": 30,
+        "contest": 18.567,
+        "passingGrade": 243,
+        "avgGrade": 253.31,
+        "commerceAccepted": 52
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере",
+        "budgetPlaces": 25,
+        "contest": 22,
+        "passingGrade": 247,
+        "avgGrade": 258.136,
+        "commerceAccepted": 80
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 50,
+        "contest": 12.52,
+        "passingGrade": 231,
+        "avgGrade": 239.395,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность",
+        "budgetPlaces": 10,
+        "contest": 62.1,
+        "passingGrade": 254,
+        "avgGrade": 265,
+        "commerceAccepted": 154
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности",
+        "budgetPlaces": 17,
+        "contest": 26.588,
+        "passingGrade": 245,
+        "avgGrade": 257.818,
+        "commerceAccepted": 50
+      },
+      {
+        "code": "05.03.03",
+        "title": "Картография и геоинформатика",
+        "budgetPlaces": 15,
+        "contest": 16.667,
+        "passingGrade": 210,
+        "avgGrade": 227.933,
+        "commerceAccepted": 30
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника",
+        "budgetPlaces": 60,
+        "contest": 14.067,
+        "passingGrade": 202,
+        "avgGrade": 219.179,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи",
+        "budgetPlaces": 60,
+        "contest": 24.05,
+        "passingGrade": 235,
+        "avgGrade": 243.453,
+        "commerceAccepted": 55
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 60,
+        "contest": 17.767,
+        "passingGrade": 203,
+        "avgGrade": 218.216,
+        "commerceAccepted": 17
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы",
+        "budgetPlaces": 60,
+        "contest": 10.217,
+        "passingGrade": 191,
+        "avgGrade": 211.278,
+        "commerceAccepted": 22
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия",
+        "budgetPlaces": 85,
+        "contest": 23.6,
+        "passingGrade": 218,
+        "avgGrade": 244.429,
+        "commerceAccepted": 27
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология",
+        "budgetPlaces": 380,
+        "contest": 7.6,
+        "passingGrade": 220,
+        "avgGrade": 236.837,
+        "commerceAccepted": 164
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология",
+        "budgetPlaces": 74,
+        "contest": 24.878,
+        "passingGrade": 237,
+        "avgGrade": 258.643,
+        "commerceAccepted": 85
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность",
+        "budgetPlaces": 30,
+        "contest": 30,
+        "passingGrade": 216,
+        "avgGrade": 222.207,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "27.03.02",
+        "title": "Управление качеством",
+        "budgetPlaces": 25,
+        "contest": 17.84,
+        "passingGrade": 228,
+        "avgGrade": 235.182,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика",
+        "budgetPlaces": 30,
+        "contest": 18.2,
+        "passingGrade": 238,
+        "avgGrade": 250.267,
+        "commerceAccepted": 39
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом",
+        "budgetPlaces": 25,
+        "contest": 23.8,
+        "passingGrade": 245,
+        "avgGrade": 245,
+        "commerceAccepted": 43
+      },
+      {
+        "code": "40.03.01",
+        "title": "Юриспруденция",
+        "budgetPlaces": 17,
+        "contest": 31.235,
+        "passingGrade": 244,
+        "avgGrade": 256.533,
+        "commerceAccepted": 112
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника",
+        "budgetPlaces": 60,
+        "contest": 21,
+        "passingGrade": 211,
+        "avgGrade": 229.298,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 30,
+        "contest": 20.3,
+        "passingGrade": 195,
+        "avgGrade": 223.483,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "12.03.05",
+        "title": "Лазерная техника и лазерные технологии",
+        "budgetPlaces": 40,
+        "contest": 28.8,
+        "passingGrade": 200,
+        "avgGrade": 216.742,
+        "commerceAccepted": 14
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения",
+        "budgetPlaces": 30,
+        "contest": 13.433,
+        "passingGrade": 185,
+        "avgGrade": 205.667,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение",
+        "budgetPlaces": 25,
+        "contest": 22.4,
+        "passingGrade": 226,
+        "avgGrade": 234.909,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 60,
+        "contest": 14.933,
+        "passingGrade": 208,
+        "avgGrade": 217.2,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 50,
+        "contest": 10.76,
+        "passingGrade": 187,
+        "avgGrade": 214.174,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника",
+        "budgetPlaces": 28,
+        "contest": 23.714,
+        "passingGrade": 215,
+        "avgGrade": 227.556,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов",
+        "budgetPlaces": 25,
+        "contest": 5.52,
+        "passingGrade": 203,
+        "avgGrade": 221.609,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "54.03.01",
+        "title": "Дизайн",
+        "budgetPlaces": 16,
+        "contest": 11.813,
+        "passingGrade": 230,
+        "avgGrade": 249.929,
+        "commerceAccepted": 28
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "data": [
+      {
+        "code": "01.03.05",
+        "title": "Статистика",
+        "budgetPlaces": 20,
+        "contest": 22.9,
+        "passingGrade": 245,
+        "avgGrade": 254.813,
+        "commerceAccepted": 54
+      },
+      {
+        "code": "38.03.04",
+        "title": "Государственное и муниципальное управление",
+        "budgetPlaces": 4,
+        "contest": 105,
+        "passingGrade": 254,
+        "avgGrade": 257,
+        "commerceAccepted": 46
+      },
+      {
+        "code": "38.03.05",
+        "title": "Бизнес-информатика",
+        "budgetPlaces": 4,
+        "contest": 109.5,
+        "passingGrade": 261,
+        "avgGrade": 265,
+        "commerceAccepted": 115
+      },
+      {
+        "code": "46.03.02",
+        "title": "Документоведение и архивоведение",
+        "budgetPlaces": 20,
+        "contest": 19.35,
+        "passingGrade": 233,
+        "avgGrade": 247.421,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика",
+        "budgetPlaces": 25,
+        "contest": 29.6,
+        "passingGrade": 246,
+        "avgGrade": 261.714,
+        "commerceAccepted": 22
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 180,
+        "contest": 18.022,
+        "passingGrade": 234,
+        "avgGrade": 251.961,
+        "commerceAccepted": 74
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика",
+        "budgetPlaces": 219,
+        "contest": 18.292,
+        "passingGrade": 248,
+        "avgGrade": 261.465,
+        "commerceAccepted": 227
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 240,
+        "contest": 18.467,
+        "passingGrade": 258,
+        "avgGrade": 272.908,
+        "commerceAccepted": 681
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств",
+        "budgetPlaces": 30,
+        "contest": 20.733,
+        "passingGrade": 242,
+        "avgGrade": 252.407,
+        "commerceAccepted": 25
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика",
+        "budgetPlaces": 50,
+        "contest": 60.82,
+        "passingGrade": 251,
+        "avgGrade": 271.378,
+        "commerceAccepted": 125
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность",
+        "budgetPlaces": 77,
+        "contest": 21.883,
+        "passingGrade": 237,
+        "avgGrade": 256.706,
+        "commerceAccepted": 85
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 72,
+        "contest": 11.222,
+        "passingGrade": 241,
+        "avgGrade": 253.314,
+        "commerceAccepted": 79
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 63,
+        "contest": 19.968,
+        "passingGrade": 201,
+        "avgGrade": 236.902,
+        "commerceAccepted": 32
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 50,
+        "contest": 29.52,
+        "passingGrade": 229,
+        "avgGrade": 256.614,
+        "commerceAccepted": 77
+      },
+      {
+        "code": "27.03.03",
+        "title": "Системный анализ и управление",
+        "budgetPlaces": 30,
+        "contest": 18.833,
+        "passingGrade": 241,
+        "avgGrade": 251.321,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "27.03.04",
+        "title": "Управление в технических системах",
+        "budgetPlaces": 30,
+        "contest": 32.467,
+        "passingGrade": 210,
+        "avgGrade": 230.577,
+        "commerceAccepted": 13
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 270,
+        "contest": 14.967,
+        "passingGrade": 244,
+        "avgGrade": 255.554,
+        "commerceAccepted": 251
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность",
+        "budgetPlaces": 62,
+        "contest": 34.435,
+        "passingGrade": 245,
+        "avgGrade": 260.962,
+        "commerceAccepted": 256
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем",
+        "budgetPlaces": 72,
+        "contest": 12.389,
+        "passingGrade": 236,
+        "avgGrade": 249.551,
+        "commerceAccepted": 60
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности",
+        "budgetPlaces": 43,
+        "contest": 17.628,
+        "passingGrade": 235,
+        "avgGrade": 254.974,
+        "commerceAccepted": 52
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере",
+        "budgetPlaces": 42,
+        "contest": 14.333,
+        "passingGrade": 237,
+        "avgGrade": 257,
+        "commerceAccepted": 55
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 59,
+        "contest": 12.22,
+        "passingGrade": 218,
+        "avgGrade": 239.708,
+        "commerceAccepted": 8
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности",
+        "budgetPlaces": 14,
+        "contest": 33.071,
+        "passingGrade": 258,
+        "avgGrade": 263.2,
+        "commerceAccepted": 44
+      },
+      {
+        "code": "05.03.03",
+        "title": "Картография и геоинформатика",
+        "budgetPlaces": 16,
+        "contest": 16.063,
+        "passingGrade": 218,
+        "avgGrade": 236.429,
+        "commerceAccepted": 19
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 30,
+        "contest": 24.767,
+        "passingGrade": 236,
+        "avgGrade": 250.655,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника",
+        "budgetPlaces": 30,
+        "contest": 27.233,
+        "passingGrade": 198,
+        "avgGrade": 222.321,
+        "commerceAccepted": 12
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи",
+        "budgetPlaces": 77,
+        "contest": 14.701,
+        "passingGrade": 237,
+        "avgGrade": 246.403,
+        "commerceAccepted": 25
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 60,
+        "contest": 19.15,
+        "passingGrade": 192,
+        "avgGrade": 228.339,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы",
+        "budgetPlaces": 72,
+        "contest": 8.528,
+        "passingGrade": 192,
+        "avgGrade": 205.521,
+        "commerceAccepted": 14
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия",
+        "budgetPlaces": 55,
+        "contest": 42.091,
+        "passingGrade": 242,
+        "avgGrade": 261.075,
+        "commerceAccepted": 32
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология",
+        "budgetPlaces": 332,
+        "contest": 9.06,
+        "passingGrade": 221,
+        "avgGrade": 245.264,
+        "commerceAccepted": 119
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология",
+        "budgetPlaces": 87,
+        "contest": 25.529,
+        "passingGrade": 250,
+        "avgGrade": 268.377,
+        "commerceAccepted": 106
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность",
+        "budgetPlaces": 30,
+        "contest": 25.367,
+        "passingGrade": 192,
+        "avgGrade": 218.483,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "27.03.02",
+        "title": "Управление качеством",
+        "budgetPlaces": 30,
+        "contest": 18.767,
+        "passingGrade": 228,
+        "avgGrade": 239.4,
+        "commerceAccepted": 12
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика",
+        "budgetPlaces": 33,
+        "contest": 19.303,
+        "passingGrade": 222,
+        "avgGrade": 240.9,
+        "commerceAccepted": 34
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом",
+        "budgetPlaces": 10,
+        "contest": 1,
+        "passingGrade": null,
+        "avgGrade": null,
+        "commerceAccepted": 22
+      },
+      {
+        "code": "40.03.01",
+        "title": "Юриспруденция",
+        "budgetPlaces": 14,
+        "contest": 52.071,
+        "passingGrade": 261,
+        "avgGrade": 268.167,
+        "commerceAccepted": 105
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника",
+        "budgetPlaces": 30,
+        "contest": 42.467,
+        "passingGrade": 215,
+        "avgGrade": 232.964,
+        "commerceAccepted": 12
+      },
+      {
+        "code": "12.03.02",
+        "title": "Оптотехника",
+        "budgetPlaces": 30,
+        "contest": 23.867,
+        "passingGrade": 196,
+        "avgGrade": 215.682,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "12.03.05",
+        "title": "Лазерная техника и лазерные технологии",
+        "budgetPlaces": 40,
+        "contest": 25.95,
+        "passingGrade": 206,
+        "avgGrade": 219.727,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения",
+        "budgetPlaces": 30,
+        "contest": 20.933,
+        "passingGrade": 187,
+        "avgGrade": 198.667,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение",
+        "budgetPlaces": 25,
+        "contest": 20.4,
+        "passingGrade": 215,
+        "avgGrade": 231.292,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 30,
+        "contest": 25.233,
+        "passingGrade": 196,
+        "avgGrade": 226.367,
+        "commerceAccepted": 2
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 30,
+        "contest": 19.467,
+        "passingGrade": 188,
+        "avgGrade": 217.036,
+        "commerceAccepted": 7
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника",
+        "budgetPlaces": 29,
+        "contest": 30.103,
+        "passingGrade": 193,
+        "avgGrade": 226.357,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов",
+        "budgetPlaces": 26,
+        "contest": 7.538,
+        "passingGrade": 214,
+        "avgGrade": 232.731,
+        "commerceAccepted": 10
+      },
+      {
+        "code": "54.03.01",
+        "title": "Дизайн",
+        "budgetPlaces": 9,
+        "contest": 31.778,
+        "passingGrade": 243,
+        "avgGrade": 253.5,
+        "commerceAccepted": 29
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "data": [
+      {
+        "code": "01.03.04",
+        "title": "Прикладная математика",
+        "budgetPlaces": 30,
+        "contest": 52.33,
+        "passingGrade": 259,
+        "avgGrade": 269,
+        "commerceAccepted": 27
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 120,
+        "contest": 52.57,
+        "passingGrade": 258,
+        "avgGrade": 263.44,
+        "commerceAccepted": 135
+      },
+      {
+        "code": "09.03.03",
+        "title": "Прикладная информатика",
+        "budgetPlaces": 231,
+        "contest": 24.32,
+        "passingGrade": 263,
+        "avgGrade": 268.68,
+        "commerceAccepted": 160
+      },
+      {
+        "code": "09.03.04",
+        "title": "Программная инженерия",
+        "budgetPlaces": 300,
+        "contest": 20.91,
+        "passingGrade": 274,
+        "avgGrade": 281.25,
+        "commerceAccepted": 691
+      },
+      {
+        "code": "01.03.02",
+        "title": "Прикладная математика и информатика",
+        "budgetPlaces": 60,
+        "contest": 57.03,
+        "passingGrade": 267,
+        "avgGrade": 274.18,
+        "commerceAccepted": 101
+      },
+      {
+        "code": "09.03.01",
+        "title": "Информатика и вычислительная техника",
+        "budgetPlaces": 180,
+        "contest": 28.9,
+        "passingGrade": 252,
+        "avgGrade": 258.77,
+        "commerceAccepted": 69
+      },
+      {
+        "code": "10.05.01",
+        "title": "Компьютерная безопасность",
+        "budgetPlaces": 60,
+        "contest": 52.25,
+        "passingGrade": 257,
+        "avgGrade": 267.78,
+        "commerceAccepted": 128
+      },
+      {
+        "code": "10.05.02",
+        "title": "Информационная безопасность телекоммуникационных систем",
+        "budgetPlaces": 60,
+        "contest": 13.77,
+        "passingGrade": 243,
+        "avgGrade": 250,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "12.03.04",
+        "title": "Биотехнические системы и технологии",
+        "budgetPlaces": 57,
+        "contest": 32.12,
+        "passingGrade": 232,
+        "avgGrade": 246.49,
+        "commerceAccepted": 32
+      },
+      {
+        "code": "15.03.04",
+        "title": "Автоматизация технологических процессов и производств",
+        "budgetPlaces": 35,
+        "contest": 29.91,
+        "passingGrade": 232,
+        "avgGrade": 246.6,
+        "commerceAccepted": 25
+      },
+      {
+        "code": "15.03.06",
+        "title": "Мехатроника и робототехника",
+        "budgetPlaces": 35,
+        "contest": 51.46,
+        "passingGrade": 249,
+        "avgGrade": 261.5,
+        "commerceAccepted": 45
+      },
+      {
+        "code": "27.03.03",
+        "title": "Системный анализ и управление",
+        "budgetPlaces": 50,
+        "contest": 22.04,
+        "passingGrade": 240,
+        "avgGrade": 251.15,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "02.03.02",
+        "title": "Фундаментальная информатика и информационные технологии",
+        "budgetPlaces": 21,
+        "contest": 81.62,
+        "passingGrade": 265,
+        "avgGrade": 274.68,
+        "commerceAccepted": 99
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 300,
+        "contest": 13.74,
+        "passingGrade": 250,
+        "avgGrade": 259.23,
+        "commerceAccepted": 128
+      },
+      {
+        "code": "10.03.01",
+        "title": "Информационная безопасность",
+        "budgetPlaces": 48,
+        "contest": 58.69,
+        "passingGrade": 260,
+        "avgGrade": 269.94,
+        "commerceAccepted": 198
+      },
+      {
+        "code": "10.05.03",
+        "title": "Информационная безопасность автоматизированных систем",
+        "budgetPlaces": 60,
+        "contest": 20.27,
+        "passingGrade": 236,
+        "avgGrade": 249.81,
+        "commerceAccepted": 40
+      },
+      {
+        "code": "10.05.04",
+        "title": "Информационно-аналитические системы безопасности",
+        "budgetPlaces": 39,
+        "contest": 22.15,
+        "passingGrade": 244,
+        "avgGrade": 255.57,
+        "commerceAccepted": 20
+      },
+      {
+        "code": "10.05.05",
+        "title": "Безопасность информационных технологий в правоохранительной сфере",
+        "budgetPlaces": 39,
+        "contest": 17.59,
+        "passingGrade": 240,
+        "avgGrade": 248.97,
+        "commerceAccepted": 37
+      },
+      {
+        "code": "12.03.01",
+        "title": "Приборостроение",
+        "budgetPlaces": 30,
+        "contest": 30.5,
+        "passingGrade": 225,
+        "avgGrade": 234.59,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "38.05.01",
+        "title": "Экономическая безопасность",
+        "budgetPlaces": 5,
+        "contest": 70.4,
+        "passingGrade": 253,
+        "avgGrade": 260,
+        "commerceAccepted": 95
+      },
+      {
+        "code": "40.05.01",
+        "title": "Правовое обеспечение национальной безопасности",
+        "budgetPlaces": 12,
+        "contest": 30.83,
+        "passingGrade": 268,
+        "avgGrade": 272.44,
+        "commerceAccepted": 57
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 60,
+        "contest": 37.33,
+        "passingGrade": 244,
+        "avgGrade": 249.4,
+        "commerceAccepted": 21
+      },
+      {
+        "code": "11.03.01",
+        "title": "Радиотехника",
+        "budgetPlaces": 60,
+        "contest": 18.12,
+        "passingGrade": 197,
+        "avgGrade": 214.57,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "11.03.02",
+        "title": "Инфокоммуникационные технологии и системы связи",
+        "budgetPlaces": 121,
+        "contest": 11.51,
+        "passingGrade": 213,
+        "avgGrade": 237.81,
+        "commerceAccepted": 26
+      },
+      {
+        "code": "11.03.03",
+        "title": "Конструирование и технология электронных средств",
+        "budgetPlaces": 60,
+        "contest": 29.63,
+        "passingGrade": 220,
+        "avgGrade": 236,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "11.05.01",
+        "title": "Радиоэлектронные системы и комплексы",
+        "budgetPlaces": 69,
+        "contest": 12.48,
+        "passingGrade": 187,
+        "avgGrade": 209.09,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "01.03.05",
+        "title": "Статистика",
+        "budgetPlaces": 32,
+        "contest": 13.5,
+        "passingGrade": 243,
+        "avgGrade": 256.19,
+        "commerceAccepted": 24
+      },
+      {
+        "code": "27.03.05",
+        "title": "Инноватика",
+        "budgetPlaces": 55,
+        "contest": 29.64,
+        "passingGrade": 241,
+        "avgGrade": 249.74,
+        "commerceAccepted": 24
+      },
+      {
+        "code": "38.03.03",
+        "title": "Управление персоналом",
+        "budgetPlaces": 20,
+        "contest": 9.25,
+        "passingGrade": 226,
+        "avgGrade": 237.86,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "40.03.01",
+        "title": "Юриспруденция",
+        "budgetPlaces": 12,
+        "contest": 40.25,
+        "passingGrade": 262,
+        "avgGrade": 277.25,
+        "commerceAccepted": 119
+      },
+      {
+        "code": "46.03.02",
+        "title": "Документоведение и архивоведение",
+        "budgetPlaces": 16,
+        "contest": 14.63,
+        "passingGrade": 234,
+        "avgGrade": 249.69,
+        "commerceAccepted": 9
+      },
+      {
+        "code": "04.03.01",
+        "title": "Химия",
+        "budgetPlaces": 67,
+        "contest": 31.06,
+        "passingGrade": 223,
+        "avgGrade": 263.7,
+        "commerceAccepted": 16
+      },
+      {
+        "code": "18.03.01",
+        "title": "Химическая технология",
+        "budgetPlaces": 309,
+        "contest": 8,
+        "passingGrade": 196,
+        "avgGrade": 238.26,
+        "commerceAccepted": 44
+      },
+      {
+        "code": "19.03.01",
+        "title": "Биотехнология",
+        "budgetPlaces": 103,
+        "contest": 19.83,
+        "passingGrade": 238,
+        "avgGrade": 267.83,
+        "commerceAccepted": 71
+      },
+      {
+        "code": "20.03.01",
+        "title": "Техносферная безопасность",
+        "budgetPlaces": 41,
+        "contest": 39.49,
+        "passingGrade": 190,
+        "avgGrade": 211.48,
+        "commerceAccepted": 7
+      },
+      {
+        "code": "09.03.02",
+        "title": "Информационные системы и технологии",
+        "budgetPlaces": 60,
+        "contest": 33.87,
+        "passingGrade": 252,
+        "avgGrade": 261.46,
+        "commerceAccepted": 39
+      },
+      {
+        "code": "11.03.04",
+        "title": "Электроника и наноэлектроника",
+        "budgetPlaces": 30,
+        "contest": 44.93,
+        "passingGrade": 224,
+        "avgGrade": 238.07,
+        "commerceAccepted": 15
+      },
+      {
+        "code": "12.03.05",
+        "title": "Лазерная техника и лазерные технологии",
+        "budgetPlaces": 60,
+        "contest": 19.07,
+        "passingGrade": 198,
+        "avgGrade": 222.87,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "12.05.01",
+        "title": "Электронные и оптико-электронные приборы и системы специального назначения",
+        "budgetPlaces": 50,
+        "contest": 15.04,
+        "passingGrade": 171,
+        "avgGrade": 197.07,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "15.03.01",
+        "title": "Машиностроение",
+        "budgetPlaces": 22,
+        "contest": 42.09,
+        "passingGrade": 221,
+        "avgGrade": 238.63,
+        "commerceAccepted": 23
+      },
+      {
+        "code": "22.03.01",
+        "title": "Материаловедение и технологии материалов",
+        "budgetPlaces": 55,
+        "contest": 26.82,
+        "passingGrade": 180,
+        "avgGrade": 208.39,
+        "commerceAccepted": 5
+      },
+      {
+        "code": "27.03.01",
+        "title": "Стандартизация и метрология",
+        "budgetPlaces": 25,
+        "contest": 28,
+        "passingGrade": 210,
+        "avgGrade": 222.54,
+        "commerceAccepted": 6
+      },
+      {
+        "code": "28.03.01",
+        "title": "Нанотехнологии и микросистемная техника",
+        "budgetPlaces": 26,
+        "contest": 52.38,
+        "passingGrade": 212,
+        "avgGrade": 223.92,
+        "commerceAccepted": 4
+      },
+      {
+        "code": "29.03.04",
+        "title": "Технология художественной обработки материалов",
+        "budgetPlaces": 21,
+        "contest": 6.33,
+        "passingGrade": 211,
+        "avgGrade": 230.2,
+        "commerceAccepted": 11
+      },
+      {
+        "code": "54.03.01",
+        "title": "Дизайн",
+        "budgetPlaces": 5,
+        "contest": 33.8,
+        "passingGrade": 246,
+        "avgGrade": 247.5,
+        "commerceAccepted": 37
+      }
+    ]
+  }
+]
